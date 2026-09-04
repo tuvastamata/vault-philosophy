@@ -1,0 +1,3 @@
+# локальное состояние Obsidian и корзина — не часть вольта
+.obsidian/workspace*
+.trash/
