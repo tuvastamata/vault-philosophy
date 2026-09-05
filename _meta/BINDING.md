@@ -3,6 +3,8 @@ id: BINDING
 type: vault-binding
 metavault: ../metavault
 rules_mode: current
+language: ru
+languages: [ru]
 # Аудитория: какие классы правил (теги agent/*) компилируются в этот вольт.
 # Без rule_classes — все классы, кроме agent/reference. Здесь исключён agent/profile:
 # правила софтового профиля (cut, code-links, software-profile) вольту философии не нужны.

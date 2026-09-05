@@ -3,7 +3,7 @@
 # AGENTS.md — правила этого вольта
 
 Скомпилировано из `../metavault` · 2026-09-04 · mode: current
-Действующих (canonical) правил: 23. Аудитория: agent/governance, agent/model, agent/storage, agent/ingest, agent/retrieval, agent/workflow.
+Действующих (canonical) правил: 23. Аудитория: agent/governance, agent/model, agent/storage, agent/ingest, agent/retrieval, agent/workflow. Язык: ru.
 
 Хребет системы: agent proposes, human canonizes. Агент не канонизирует, не двигает указатели версий и не правит чужие иммутабельные заметки.
 
