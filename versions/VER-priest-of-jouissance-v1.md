@@ -38,3 +38,6 @@ carved_from: "road-to-emmaus/ru/04 Справки/Жрец жуйссанса.md
 - Антоний Сурожский, [«Берегитесь, братья мои, священники!» («Церковь и время», 1999) — antsur.ru](https://antsur.ru/beregites-bratya-moi-svyashhenniki-1999-g/); [«Духовность и духовничество» (доклад 18.05.1987) — antsur.ru](https://antsur.ru/duhovnost-i-duhovnichestvo-18-maya-1987-g/)
 
 *Перенесено из вольта road-to-emmaus 2026-09-04 (carve-out линии, не предназначенной коллегам): текст страницы сохранён дословно, ссылки переадресованы на узлы этого вольта; страницы, оставшиеся в road-to-emmaus, остаются ссылками туда (приватное → shared). Одобрение в исходном вольте — поле `approved_in_source`; канонизация здесь — отдельный акт.*
+
+---
+Eesti keeles: [[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]

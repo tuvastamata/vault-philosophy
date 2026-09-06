@@ -13,13 +13,14 @@ created: 2026-09-04
 
 ## Что внутри (2026-09-04)
 
-Carve-out из вольта `road-to-emmaus` — линии, не предназначенные коллегам (ветка `inceste` сверх `main@59fad0f`), отчёт: [[INGEST-20260904]].
+Точка входа — [[00 Карта философии]]. Carve-out из вольта `road-to-emmaus` — линии, не предназначенные коллегам (ветка `inceste` сверх `main@59fad0f`), отчёт: [[INGEST-20260904]]. Эстонские пары этих линий перенесены сюда 06.09.2026 (`translations/`), отчёт: [[INGEST-20260906]].
 
 - `lines/` — три линии: [[LINE-pain-of-thou]] (боль от прикосновения к Ты), [[LINE-incest-power]] (инцест и власть), [[LINE-psychotic-orthodoxy]] (психотическое православие).
 - `sources/` — raw: беседа «Церковь и страдание» 10.05.2026 ([[SRC-20260510-church-suffering]] + транскрипт с якорями) и рукописная заметка «Власть» 27.08.2026 ([[SRC-20260827-note-power]] + скан); nominal: текстовые сессии [[SRC-20260825-text]], [[SRC-20260827-text]].
 - `statements/` — семь высказываний: шесть тезисов Андрея и один разбор-кейс агента ([[STM-20260827-claude-hilarion-case]]).
 - `persons/` — лица (заявка [[VER-node-types-v2]]): [[PER-kireev]], [[PER-hilarion]] (human), [[PER-eoc-mp]] (organization).
 - `concepts/` + `versions/` — 13 концептов с телами v1 (плюс [[CON-lacanian-gap]]); все `proposed`: одобрение страниц в исходном вольте записано полем `approved_in_source`, канонизация здесь — отдельный акт: `python3 ../metavault/tools/canonize.py . --list`, затем `--all --by tuvastamata --yes` или выборочно `--ids`.
+- `translations/` — 18 эстонских пар линий «инцест и власть» и «психотическое православие»: узлы `type: translation` с `of` на версию, statement или карточку (id `<оригинал>.et`), у версий поле `definition`; русские оригиналы отвечают футером «Eesti keeles».
 
 Ссылки на страницы, оставшиеся в `road-to-emmaus` ([[CON-emmaus-edasiandmise-mudel|Эммаус]], [[STM-20260821-tuvastamata-luhise-teenimatu-nauding|Незаслуженное короткого замыкания]], [[STM-20260825-tuvastamata-kuulatada-olemise-kutset|Расслышать зов Бытия]] и др.), — межвольтовые: приватный вольт ссылается на shared, это законное направление ([[CON-vault-sharing]]); обратных ссылок быть не должно.
 

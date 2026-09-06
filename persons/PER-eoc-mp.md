@@ -47,3 +47,6 @@ carved_from: "road-to-emmaus/ru/04 Справки/ЭПЦ МП.md @ 7dc9fc7"
 - [[CON-psychotic-orthodoxy]], [[CON-god-with-the-sufferer]], [[STM-20260510-tuvastamata-no-bishops-left]].
 
 *Перенесено из вольта road-to-emmaus 2026-09-04; пересобрано из концепта `CON-eoc-mp` в лицо по заявке [[VER-node-types-v2]].*
+
+---
+Eesti keeles: [[PER-eoc-mp.et|MPEÕK]]

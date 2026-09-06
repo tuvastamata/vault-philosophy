@@ -39,3 +39,6 @@ carved_from: "road-to-emmaus/ru/04 Справки/Киреев.md @ 7dc9fc7"
 - [[CON-incest]] — терминология; [[STM-20260827-tuvastamata-power-promise]]; [[STM-20260821-tuvastamata-naudingu-edasiandmine|Передача наслаждения]], [[STM-20260823-tuvastamata-eesmargita-kohtumised|Бесцельные встречи]] (road-to-emmaus).
 
 *Перенесено из вольта road-to-emmaus 2026-09-04; 2026-09-04 пересобрано из концепта `CON-kireev` в лицо по заявке [[VER-node-types-v2]].*
+
+---
+Eesti keeles: [[PER-kireev.et|Kirejev]]

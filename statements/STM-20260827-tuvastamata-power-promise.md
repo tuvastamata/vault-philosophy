@@ -30,3 +30,6 @@ tags: [nav/psychoanalysis, nav/theology]
 Связки: [[STM-20260821-tuvastamata-luhise-teenimatu-nauding|Незаслуженное короткого замыкания]] (обещание в обход платежа) · [[CON-ulemina-kask-naudi|Сверх-Я Наслаждайся]] (наслаждение, вменённое в обязанность) · [[STM-20260821-tuvastamata-esimene-kui-teenija|Первый как слуга]] (евангельский разворот власти: Мк 10:42–45) · [[STM-20260825-tuvastamata-pain-of-thou]] (боль, которую власть обещает отменить).
 
 *Перенесено из вольта road-to-emmaus 2026-09-04 (carve-out линии, не предназначенной коллегам): текст страницы сохранён дословно, ссылки переадресованы на узлы этого вольта; страницы, оставшиеся в road-to-emmaus, остаются ссылками туда (приватное → shared). Одобрение в исходном вольте — поле `approved_in_source`; канонизация здесь — отдельный акт.*
+
+---
+Eesti keeles: [[STM-20260827-tuvastamata-power-promise.et|Võim kui võimatu naudingu lubadus]]

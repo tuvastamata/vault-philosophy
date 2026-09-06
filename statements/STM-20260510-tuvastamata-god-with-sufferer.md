@@ -28,3 +28,6 @@ tags: [nav/theology]
 Связки: [[CON-psychotic-orthodoxy]] (структура, которая этого вопроса не слышит) · [[CON-emmaus-edasiandmise-mudel|Эммаус]] (Он — рядом на дороге, неузнанный).
 
 *Перенесено из вольта road-to-emmaus 2026-09-04 (carve-out линии, не предназначенной коллегам): текст страницы сохранён дословно, ссылки переадресованы на узлы этого вольта; страницы, оставшиеся в road-to-emmaus, остаются ссылками туда (приватное → shared). Одобрение в исходном вольте — поле `approved_in_source`; канонизация здесь — отдельный акт.*
+
+---
+Eesti keeles: [[STM-20260510-tuvastamata-god-with-sufferer.et|Jumal on iga kannatajaga]]

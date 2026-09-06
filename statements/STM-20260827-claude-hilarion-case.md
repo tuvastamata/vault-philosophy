@@ -46,3 +46,6 @@ tags: [nav/theology]
 - Дело 2024–2026: [Meduza, 05.07.2024](https://meduza.io/news/2024/07/05/keleynik-obvinil-byvshego-glavu-otdela-vneshnih-tserkovnyh-svyazey-rpts-mitropolita-ilariona-v-domogatelstvah-tot-poobeschal-podat-isk-o-klevete) · [РИА, 09.07.2024](https://ria.ru/20240709/mitropolit-1958444464.html) · [РИА, 17.10.2024](https://ria.ru/20241017/ekspertiza-1978589115.html) · [«Новая газета Европа», 15.05.2026](https://novayagazeta.eu/articles/2026/05/15/ilarion-go-home) · [m24, 30.05.2026](https://www.m24.ru/news/30052026/905701) · [РИА, 31.05.2026](https://ria.ru/20260531/mitropolit-2095840076.html) · [РИА, 29.07.2026](https://ria.ru/20260729/mitropolit-2107805457.html)
 
 *Перенесено из вольта road-to-emmaus 2026-09-04 (carve-out линии, не предназначенной коллегам): текст страницы сохранён дословно, ссылки переадресованы на узлы этого вольта; страницы, оставшиеся в road-to-emmaus, остаются ссылками туда (приватное → shared). Одобрение в исходном вольте — поле `approved_in_source`; канонизация здесь — отдельный акт.*
+
+---
+Eesti keeles: [[STM-20260827-claude-hilarion-case.et|Ilarioni juhtum]]
