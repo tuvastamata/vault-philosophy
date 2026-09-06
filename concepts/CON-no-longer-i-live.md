@@ -12,7 +12,7 @@ provenance: "[[SRC-20260825-text]]"
 line: "[[LINE-pain-of-thou]]"
 tags: [ref/theology/new-testament, nav/theology]
 approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[Уже не я живу]]"
+based_on: "[[CON-ei-ela-enam-mina]]"
 ---
 
 # Уже не я живу (Гал 2:20)

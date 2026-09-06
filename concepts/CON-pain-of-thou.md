@@ -11,7 +11,7 @@ provenance: "[[SRC-20260825-text]]"
 line: "[[LINE-pain-of-thou]]"
 tags: [nav/theology, nav/psychoanalysis, nav/philosophy]
 approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[Разбор природы боли]]"
+based_on: "[[CON-valu-loomuse-analuus]]"
 ---
 
 # Боль от прикосновения к Ты

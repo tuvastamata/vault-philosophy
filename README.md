@@ -21,6 +21,6 @@ Carve-out из вольта `road-to-emmaus` — линии, не предназ
 - `persons/` — лица (заявка [[VER-node-types-v2]]): [[PER-kireev]], [[PER-hilarion]] (human), [[PER-eoc-mp]] (organization).
 - `concepts/` + `versions/` — 13 концептов с телами v1 (плюс [[CON-lacanian-gap]]); все `proposed`: одобрение страниц в исходном вольте записано полем `approved_in_source`, канонизация здесь — отдельный акт: `python3 ../metavault/tools/canonize.py . --list`, затем `--all --by tuvastamata --yes` или выборочно `--ids`.
 
-Ссылки на страницы, оставшиеся в `road-to-emmaus` ([[Эммаус]], [[Незаслуженное короткого замыкания]], [[Расслышать зов Бытия]] и др.), — межвольтовые: приватный вольт ссылается на shared, это законное направление ([[CON-vault-sharing]]); обратных ссылок быть не должно.
+Ссылки на страницы, оставшиеся в `road-to-emmaus` ([[CON-emmaus-edasiandmise-mudel|Эммаус]], [[STM-20260821-tuvastamata-luhise-teenimatu-nauding|Незаслуженное короткого замыкания]], [[STM-20260825-tuvastamata-kuulatada-olemise-kutset|Расслышать зов Бытия]] и др.), — межвольтовые: приватный вольт ссылается на shared, это законное направление ([[CON-vault-sharing]]); обратных ссылок быть не должно.
 
 Наполнение дальше — по базовым правилам: `sources/` → `statements/` → `concepts/` + `versions/`; линии в `lines/`, игры в `sandbox/`. `AGENTS.md` — производная, пересобирается компилятором.

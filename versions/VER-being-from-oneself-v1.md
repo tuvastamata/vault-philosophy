@@ -9,7 +9,7 @@ status: proposed
 created: 2026-08-25
 provenance: "[[SRC-20260825-text]]"
 approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[Быть-из-себя]]"
+based_on: "[[CON-endast-olemine]]"
 ---
 
 # Быть-из-себя v1
