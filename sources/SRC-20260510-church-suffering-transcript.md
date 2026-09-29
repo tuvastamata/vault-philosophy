@@ -1,13 +1,12 @@
 ---
 id: SRC-20260510-church-suffering-transcript
 type: source
-source_kind: transcript
-parent_source: "[[SRC-20260510-church-suffering]]"
-speakers: [tuvastamata, claude-agent]
-language: ru
-quality: raw-export
-immutable: true
-created: 2026-05-10
+prov_wasAttributedTo: [tuvastamata, claude-agent]
+dcterms_date: 2026-05-10
+dcterms_language: ru
+dcterms_type: Text
+fed_condition: nominal
+dcterms_isFormatOf: "[[SRC-20260510-church-suffering]]"
 ---
 
 # Raw transcript — беседа «Церковь и страдание: критика религиозного театра», 2026-05-10

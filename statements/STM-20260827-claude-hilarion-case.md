@@ -1,18 +1,19 @@
 ---
 id: STM-20260827-claude-hilarion-case
 type: statement
-author: claude-agent
-modality: opinion
-status: proposed
-formulated_by: claude-agent
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-based_on: "[[SRC-20260827-note-power]]"
-fragment: "[[SRC-20260827-note-power#^n06]]"
-line: "[[LINE-psychotic-orthodoxy]]"
-refers_to: ["[[PER-hilarion]]", "[[CON-psychotic-orthodoxy]]", "[[CON-priest-of-jouissance]]", "[[CON-power-as-promise]]"]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/03 Развороты/Случай Илариона.md @ 7dc9fc7"
+fed_modality: opinion
+fed_status: proposed
+pav_authoredBy: claude-agent
+pav_createdBy: claude-agent
+pav_authoredOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+prov_hadPrimarySource: "[[SRC-20260827-text]]"
+prov_wasQuotedFrom: "[[SRC-20260827-note-power#^n06]]"
+prov_wasDerivedFrom: ["[[SRC-20260827-note-power]]"]
+pav_importedFrom: road-to-emmaus/ru/03 Развороты/Случай Илариона.md @ 7dc9fc7
+dcterms_subject: ["[[PER-hilarion]]", "[[CON-psychotic-orthodoxy]]", "[[CON-priest-of-jouissance]]", "[[CON-power-as-promise]]"]
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
 tags: [nav/theology]
 ---
 

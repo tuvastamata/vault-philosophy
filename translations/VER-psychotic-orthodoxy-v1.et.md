@@ -1,18 +1,19 @@
 ---
 id: VER-psychotic-orthodoxy-v1.et
 type: translation
-of: "[[VER-psychotic-orthodoxy-v1]]"
-lang: et
-definition: "Märkme «Власть» (Андрей, 27.08.2026) tähelepaneku lahtikirjutus. «Psühhootiline õigeusk» on Andrei termin; algallikas — vestlus «Церковь и страдание: критика религиозного театра» (10.05.2026, eksport ja pass raw/-is: [[SRC-20260510-church-suffering|2026-05-10 Беседа Церковь и страдание — pass]]): suletud, forkluseeritud usustruktuur avatu vastu — Hiob ja Butša, ahel «järjepidevus → kanoonilisus → Gott mit uns» kui ümberlükkama"
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/03 Arendused/Psühhootiline õigeusk ja selle preester.md"
-aliases: ["Psühhootiline õigeusk ja selle preester"]
+skos_definition: "Märkme «Власть» (Андрей, 27.08.2026) tähelepaneku lahtikirjutus. «Psühhootiline õigeusk» on Andrei termin; algallikas — vestlus «Церковь и страдание: критика религиозного театра» (10.05.2026, eksport ja pass raw/-is: [[SRC-20260510-church-suffering|2026-05-10 Беседа Церковь и страдание — pass]]): suletud, forkluseeritud usustruktuur avatu vastu — Hiob ja Butša, ahel «järjepidevus → kanoonilisus → Gott mit uns» kui ümberlükkama"
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[VER-psychotic-orthodoxy-v1]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/03 Arendused/Psühhootiline õigeusk ja selle preester.md
+aliases: [Psühhootiline õigeusk ja selle preester]
 tags: [nav/teoloogia, nav/evangeelium, nav/nauding]
 ---
+
 # Psühhootiline õigeusk ja selle preester
 
 Märkme «Власть» (Андрей, 27.08.2026) tähelepaneku lahtikirjutus. «Psühhootiline õigeusk» on Andrei termin; algallikas — vestlus «Церковь и страдание: критика религиозного театра» (10.05.2026, eksport ja pass raw/-is: [[SRC-20260510-church-suffering|2026-05-10 Беседа Церковь и страдание — pass]]): suletud, forkluseeritud usustruktuur avatu vastu — Hiob ja Butša, ahel «järjepidevus → kanoonilisus → Gott mit uns» kui ümberlükkamatu sümboolne garantii, laulatus kui sõnamaagia. Märge lisab struktuurile figuuri ja mehhanismi: preestri ja ootuse. Algallikvestluse lõikus sõlmedeks: [[STM-20260510-tuvastamata-rite-above-reality.et|Riitus reaalsusest kõrgemal]] (sisenemine), [[VER-pharisaism-v1.et|Variserlus]] (isiklik vorm), [[VER-god-with-the-sufferer-v1.et|Kus on Jumal, kui inimene kannatab]] (küsimus, mida struktuur ei kuule), [[VER-sacrament-of-marriage-v1.et|Abielusakrament]] (väike mõõtkava), [[PER-eoc-mp.et|MPEÕK]] (kohalik juhtum).

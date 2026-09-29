@@ -1,18 +1,19 @@
 ---
 id: VER-power-as-promise-v1.et
 type: translation
-of: "[[VER-power-as-promise-v1]]"
-lang: et
-definition: "Sild märkme «Власть» (Андрей, 27.08.2026) ja Sina-puudutuse-valu liini vahel. Mõlemad kirjeldavad sama kohta — imikunartsissismi — aga kaht vastandlikku liikumist sellest välja."
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/03 Arendused/Võim Sina vastu.md"
-aliases: ["Võim Sina vastu"]
+skos_definition: "Sild märkme «Власть» (Андрей, 27.08.2026) ja Sina-puudutuse-valu liini vahel. Mõlemad kirjeldavad sama kohta — imikunartsissismi — aga kaht vastandlikku liikumist sellest välja."
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[VER-power-as-promise-v1]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/03 Arendused/Võim Sina vastu.md
+aliases: [Võim Sina vastu]
 tags: [nav/teoloogia, nav/evangeelium, nav/freud]
 ---
+
 # Võim Sina vastu
 
 Sild märkme «Власть» (Андрей, 27.08.2026) ja Sina-puudutuse-valu liini vahel. Mõlemad kirjeldavad sama kohta — imikunartsissismi — aga kaht vastandlikku liikumist sellest välja.

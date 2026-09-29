@@ -1,15 +1,16 @@
 ---
 id: VER-no-longer-i-live-v1
-type: concept-version
-concept: "[[CON-no-longer-i-live]]"
-version: 1
-formulated_by: claude-agent
-originated_by: [tuvastamata, claude-agent]
-status: proposed
-created: 2026-08-25
-provenance: "[[SRC-20260825-text]]"
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[CON-ei-ela-enam-mina]]"
+type: version
+fed_status: proposed
+pav_authoredBy: [tuvastamata, claude-agent]
+pav_createdBy: claude-agent
+pav_createdOn: 2026-08-25
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-25
+dcterms_language: ru
+dcterms_isVersionOf: "[[CON-no-longer-i-live]]"
+pav_version: 1
+prov_hadPrimarySource: "[[SRC-20260825-text]]"
+prov_wasDerivedFrom: ["[[CON-ei-ela-enam-mina]]"]
 ---
 
 # Уже не я живу (Гал 2:20) v1

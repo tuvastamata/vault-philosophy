@@ -1,16 +1,15 @@
 ---
 id: SRC-20260510-church-suffering
 type: source
-source_kind: text-conversation
-participants: [tuvastamata, claude-agent]
-language: ru
-condition: full
-raw_available: true
-transcript: "[[SRC-20260510-church-suffering-transcript]]"
-created: 2026-05-10
-ingested: 2026-08-27
-line: "[[LINE-psychotic-orthodoxy]]"
-carved_from: "road-to-emmaus/raw/2026-05-10 Беседа Церковь и страдание — экспорт.md @ 7dc9fc7"
+prov_wasAttributedTo: [tuvastamata, claude-agent]
+pav_createdOn: 2026-08-27
+dcterms_date: 2026-05-10
+dcterms_language: ru
+dcterms_type: Text
+fed_condition: full
+pav_importedFrom: road-to-emmaus/raw/2026-05-10 Беседа Церковь и страдание — экспорт.md @ 7dc9fc7
+dcterms_hasFormat: "[[SRC-20260510-church-suffering-transcript]]"
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
 ---
 
 # Source: беседа «Церковь и страдание: критика религиозного театра», 2026-05-10

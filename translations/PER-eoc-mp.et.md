@@ -1,17 +1,18 @@
 ---
 id: PER-eoc-mp.et
 type: translation
-of: "[[PER-eoc-mp]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/04 Mõisted/MPEÕK.md"
-aliases: ["MPEÕK", "Moskva Patriarhaadi Eesti Õigeusu Kirik", "EKÕK", "Eesti Kristlik-Õigeusu Kirik"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[PER-eoc-mp]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/04 Mõisted/MPEÕK.md
+aliases: [MPEÕK, Moskva Patriarhaadi Eesti Õigeusu Kirik, EKÕK, Eesti Kristlik-Õigeusu Kirik]
 tags: [nav/teoloogia, nav/kultuur]
 ---
+
 # MPEÕK
 
 Kohalik juhtum vestlusest «Церковь и страдание» (10.05.2026): kuidas psühhootiline struktuur vastab, kui reaalsus küsib temalt otse. Verbatim algkeeles:

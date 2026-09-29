@@ -1,17 +1,18 @@
 ---
 id: PER-kireev.et
 type: translation
-of: "[[PER-kireev]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/04 Mõisted/Kirejev.md"
-aliases: ["Kirejev", "Vladimir Nikolajevitš Kirejev", "Киреев"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[PER-kireev]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/04 Mõisted/Kirejev.md
+aliases: [Kirejev, Vladimir Nikolajevitš Kirejev, Киреев]
 tags: [nav/nakatamine, nav/kultuur]
 ---
+
 # Kirejev
 
 Vladimir Nikolajevitš Kirejev — Andrei sõber ja õpetaja, nüüdseks lahkunud. Igavene mälestus! Seminaride meister; selle nakkusahela algus, millest kasvas välja vault. Andrei tänusõnad juur-[[README]] Tänu-jaotises:

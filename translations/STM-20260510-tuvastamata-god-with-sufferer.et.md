@@ -1,18 +1,18 @@
 ---
 id: STM-20260510-tuvastamata-god-with-sufferer.et
 type: translation
-of: "[[STM-20260510-tuvastamata-god-with-sufferer]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-translation_of_human_text: true
-status: proposed
-created: 2026-05-10
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/01 Teesid/Jumal on iga kannatajaga.md"
-aliases: ["Jumal on iga kannatajaga"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-05-10
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260510-tuvastamata-god-with-sufferer]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/01 Teesid/Jumal on iga kannatajaga.md
+aliases: [Jumal on iga kannatajaga]
 tags: [nav/teoloogia, nav/evangeelium]
 ---
+
 # Jumal on iga kannatajaga
 
 Küsimuses «kus on Jumal?» piirikannatuse ees on kaks eri küsimust ja kaks eri vastust: «kuidas on lubatud» — Hiiobi raamat; «kus» — iga kannatajaga, nagu Tema. Kirik on seejuures Kristusega, risti juures — mitte tribüünil.

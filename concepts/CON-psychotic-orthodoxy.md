@@ -1,33 +1,22 @@
 ---
 id: CON-psychotic-orthodoxy
 type: concept
-origin: internal
-ownership: single-owner
-owners: [tuvastamata]
-current_version: "[[VER-psychotic-orthodoxy-v1]]"
-status: proposed
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-based_on: "[[SRC-20260510-church-suffering]]"
-line: "[[LINE-psychotic-orthodoxy]]"
+skos_definition: "Замкнутая, форклюзивная структура веры: обряд ставится выше реальности, цепочка «преемство → каноничность → истинность → Gott mit uns» работает как символическая гарантия, которую факт опровергнуть не может; народ ищет от Христа младенческого блаженства и складывает упование на жреца. Противоположность — открытая вера с сохранённым зазором."
+fed_origin: internal
+fed_status: proposed
+pav_curatedBy: [tuvastamata]
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+pav_hasCurrentVersion: "[[VER-psychotic-orthodoxy-v1]]"
+prov_hadPrimarySource: "[[SRC-20260827-text]]"
+prov_wasDerivedFrom: ["[[SRC-20260510-church-suffering]]"]
+pav_importedFrom: road-to-emmaus/ru/03 Развороты/Психотическое православие и его жрец.md @ 7dc9fc7
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
+skos_related: ["[[PER-eoc-mp]]", "[[CON-sacrament-of-marriage]]", "[[CON-pharisaism]]"]
 tags: [nav/theology, nav/psychoanalysis]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/03 Развороты/Психотическое православие и его жрец.md @ 7dc9fc7"
 ---
 
 # Психотическое православие
 
-**Definition:** Замкнутая, форклюзивная структура веры: обряд ставится выше реальности, цепочка «преемство → каноничность → истинность → Gott mit uns» работает как символическая гарантия, которую факт опровергнуть не может; народ ищет от Христа младенческого блаженства и складывает упование на жреца. Противоположность — открытая вера с сохранённым зазором.
-
 **Current:** [[VER-psychotic-orthodoxy-v1]]
-
-## Discussion
-- [[STM-20260510-tuvastamata-rite-above-reality]]
-- [[STM-20260510-tuvastamata-no-bishops-left]]
-- [[STM-20260510-tuvastamata-god-with-sufferer]]
-
-## Applications
-- [[STM-20260827-claude-hilarion-case]]
-- [[PER-eoc-mp]]
-- [[CON-sacrament-of-marriage]]
-- [[CON-pharisaism]]

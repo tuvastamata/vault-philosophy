@@ -1,21 +1,15 @@
 ---
 id: BINDING
-type: vault-binding
-metavault: ../metavault
-rules_mode: current
-language: ru
-languages: [ru, et]
-# Аудитория: какие классы правил (теги agent/*) компилируются в этот вольт.
-# Без rule_classes — все классы, кроме agent/reference. Здесь исключён agent/profile:
-# правила софтового профиля (cut, code-links, software-profile) вольту философии не нужны.
-rule_classes: [agent/governance, agent/model, agent/storage, agent/ingest, agent/retrieval, agent/workflow]
-local_additions: []
-bound_by: tuvastamata
-created: 2026-09-04
-status: proposed
+type: vault
+pav_curatedBy: [tuvastamata]
+pav_createdOn: 2026-09-04
+dcterms_language: ru
+fed_languages: [ru, et]
+fed_rules: ../metavault
+fed_profile: core
 ---
 
-# Binding — привязка vault-philosophy к мета-вольту
+# Binding — привязка vault-philosophy к метавольту
 
-Рабочий вольт богословия и философии; живёт по правилам мета-вольта ([[CON-vault-binding]]).
-Свод правил: `python3 ../metavault/tools/compile-agents.py .`
+Рабочий вольт богословия и философии; живёт по правилам метавольта ([[CON-federation]]). Профиль `core`; канонический язык русский, принимаемый — эстонский.
+Свод правил: `python3 ../metavault/tools/fed.py compile .` · проверка: `python3 ../metavault/tools/fed.py lint . --federation ..`

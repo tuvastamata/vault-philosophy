@@ -1,16 +1,17 @@
 ---
 id: VER-priestess-of-jouissance-v1
-type: concept-version
-concept: "[[CON-priestess-of-jouissance]]"
-version: 1
-formulated_by: claude-agent
-originated_by: [tuvastamata, claude-agent]
-status: proposed
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-based_on: "[[SRC-20260827-note-power]]"
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/04 Справки/Секс-жрица жуйссанса.md @ 7dc9fc7"
+type: version
+fed_status: proposed
+pav_authoredBy: [tuvastamata, claude-agent]
+pav_createdBy: claude-agent
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+dcterms_isVersionOf: "[[CON-priestess-of-jouissance]]"
+pav_version: 1
+prov_hadPrimarySource: "[[SRC-20260827-text]]"
+prov_wasDerivedFrom: ["[[SRC-20260827-note-power]]"]
+pav_importedFrom: road-to-emmaus/ru/04 Справки/Секс-жрица жуйссанса.md @ 7dc9fc7
 ---
 
 # Секс-жрица жуйссанса v1

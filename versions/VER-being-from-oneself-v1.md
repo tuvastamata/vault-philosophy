@@ -1,15 +1,16 @@
 ---
 id: VER-being-from-oneself-v1
-type: concept-version
-concept: "[[CON-being-from-oneself]]"
-version: 1
-formulated_by: claude-agent
-originated_by: [tuvastamata, claude-agent]
-status: proposed
-created: 2026-08-25
-provenance: "[[SRC-20260825-text]]"
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[CON-endast-olemine]]"
+type: version
+fed_status: proposed
+pav_authoredBy: [tuvastamata, claude-agent]
+pav_createdBy: claude-agent
+pav_createdOn: 2026-08-25
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-25
+dcterms_language: ru
+dcterms_isVersionOf: "[[CON-being-from-oneself]]"
+pav_version: 1
+prov_hadPrimarySource: "[[SRC-20260825-text]]"
+prov_wasDerivedFrom: ["[[CON-endast-olemine]]"]
 ---
 
 # Быть-из-себя v1

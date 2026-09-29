@@ -1,17 +1,18 @@
 ---
 id: STM-20260827-tuvastamata-power-promise
 type: statement
-author: tuvastamata
-modality: opinion
-status: proposed
-formulated_by: claude-agent
-created: 2026-08-27
-provenance: "[[SRC-20260827-note-power]]"
-fragment: "[[SRC-20260827-note-power#^n01]]"
-line: "[[LINE-incest-power]]"
-refers_to: ["[[CON-power-as-promise]]", "[[CON-incest]]", "[[CON-priest-of-jouissance]]"]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/01 Тезисы/Власть как обещание невозможного наслаждения.md @ 7dc9fc7"
+fed_modality: opinion
+fed_status: proposed
+pav_authoredBy: tuvastamata
+pav_createdBy: claude-agent
+pav_authoredOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+prov_hadPrimarySource: "[[SRC-20260827-note-power]]"
+prov_wasQuotedFrom: "[[SRC-20260827-note-power#^n01]]"
+pav_importedFrom: road-to-emmaus/ru/01 Тезисы/Власть как обещание невозможного наслаждения.md @ 7dc9fc7
+dcterms_subject: ["[[CON-power-as-promise]]", "[[CON-incest]]", "[[CON-priest-of-jouissance]]"]
+dcterms_isPartOf: "[[LINE-incest-power]]"
 tags: [nav/psychoanalysis, nav/theology]
 ---
 

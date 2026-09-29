@@ -1,18 +1,18 @@
 ---
 id: STM-20260827-tuvastamata-power-promise.et
 type: translation
-of: "[[STM-20260827-tuvastamata-power-promise]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-translation_of_human_text: true
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/01 Teesid/Võim kui võimatu naudingu lubadus.md"
-aliases: ["Võim kui võimatu naudingu lubadus"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260827-tuvastamata-power-promise]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/01 Teesid/Võim kui võimatu naudingu lubadus.md
+aliases: [Võim kui võimatu naudingu lubadus]
 tags: [nav/teoloogia, nav/lacan, nav/nauding]
 ---
+
 # Võim kui võimatu naudingu lubadus
 
 Võim ei püsi jõul ega lepingul — ta püsib lubadusel, ja just sellisel, mida täita ei saa: intsest ([[VER-incest-v1.et|Intsest]] — Kirejevi terminoloogia), võimatu nauding, imikuõndsuse tagasitulek. Valem «сиськи правят миром» ([[STM-20260827-tuvastamata-breasts-rule.et|Tissid valitsevad maailma]]) on teesi äärmuslik kokkusurumine: ei valitse rind, vaid imikuõndsuse lubadus, mida ta tähistab. Lubadust mängivad ette kandjafiguurid ([[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]): [[VER-real-man-v1.et|«tõeline mees»]], kes võtab vastutuse nagu isa ja rahuldab hüsteerikust ema; sügavalt seksualiseeritud naine — [[VER-priestess-of-jouissance-v1.et|jouissance'i preestrinna]], kehastunud lubadus; [[VER-tantric-priest-v1.et|tantrik]]; kiriklik preester, kelle peale rahvas oma ootuse asetab ([[STM-20260827-claude-hilarion-case.et|Ilarioni juhtum]]).

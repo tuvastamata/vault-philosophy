@@ -1,23 +1,23 @@
 ---
 id: PER-kireev
 type: person
-kind: human
-participant: false
-name: Владимир Николаевич Киреев
+fed_kind: human
+skos_prefLabel: Владимир Николаевич Киреев
+fed_status: proposed
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+fed_participant: false
+prov_hadPrimarySource: [устная традиция семинаров В. Н. Киреева (записей нет); память Андрея, "[[SRC-20260827-text]]"]
+pav_importedFrom: road-to-emmaus/ru/04 Справки/Киреев.md @ 7dc9fc7
+dcterms_isPartOf: "[[LINE-incest-power]]"
 aliases: [Киреев, Kirejev]
-primary_source: "устная традиция семинаров В. Н. Киреева (записей нет); память Андрея"
-status: proposed
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-line: "[[LINE-incest-power]]"
 tags: [nav/philosophy]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/04 Справки/Киреев.md @ 7dc9fc7"
 ---
 
 # Киреев
 
-**Лицо** (фигура, [[VER-node-types-v2]]): друг и учитель Андрея, мастер семинаров, источник терминологии «инцест» ([[CON-incest]]); семинары называл «расслышать зов Бытия». Ниже — карточка: наши сведения, версионируются при уточнении.
+**Лицо** (фигура, [[CON-node-types]]): друг и учитель Андрея, мастер семинаров, источник терминологии «инцест» ([[CON-incest]]); семинары называл «расслышать зов Бытия». Ниже — карточка: наши сведения, версионируются при уточнении.
 
 ## Карточка
 
@@ -38,7 +38,7 @@ carved_from: "road-to-emmaus/ru/04 Справки/Киреев.md @ 7dc9fc7"
 ## Упоминания
 - [[CON-incest]] — терминология; [[STM-20260827-tuvastamata-power-promise]]; [[STM-20260821-tuvastamata-naudingu-edasiandmine|Передача наслаждения]], [[STM-20260823-tuvastamata-eesmargita-kohtumised|Бесцельные встречи]] (road-to-emmaus).
 
-*Перенесено из вольта road-to-emmaus 2026-09-04; 2026-09-04 пересобрано из концепта `CON-kireev` в лицо по заявке [[VER-node-types-v2]].*
+*Перенесено из вольта road-to-emmaus 2026-09-04; 2026-09-04 пересобрано из концепта `CON-kireev` в лицо по заявке [[CON-node-types]].*
 
 ---
 Eesti keeles: [[PER-kireev.et|Kirejev]]

@@ -1,15 +1,14 @@
 ---
 id: SRC-20260827-note-power
 type: source
-source_kind: handwritten-note
-author: tuvastamata
-language: ru
-condition: full
-raw_available: true
-raw_file: SRC-20260827-note-power.jpg
-created: 2026-08-27
-line: "[[LINE-incest-power]]"
-carved_from: "road-to-emmaus/raw/2026-08-27 Рукописная заметка Власть — pass.md @ 7dc9fc7"
+pav_authoredBy: tuvastamata
+dcterms_date: 2026-08-27
+dcterms_language: ru
+dcterms_type: Image
+fed_condition: full
+pav_importedFrom: road-to-emmaus/raw/2026-08-27 Рукописная заметка Власть — pass.md @ 7dc9fc7
+pav_retrievedFrom: SRC-20260827-note-power.jpg
+dcterms_isPartOf: "[[LINE-incest-power]]"
 ---
 
 # Source: рукописная заметка «Власть», 2026-08-27

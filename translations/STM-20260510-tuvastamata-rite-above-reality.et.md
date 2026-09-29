@@ -1,18 +1,18 @@
 ---
 id: STM-20260510-tuvastamata-rite-above-reality.et
 type: translation
-of: "[[STM-20260510-tuvastamata-rite-above-reality]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-translation_of_human_text: true
-status: proposed
-created: 2026-05-10
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/01 Teesid/Riitus reaalsusest kõrgemal.md"
-aliases: ["Riitus reaalsusest kõrgemal"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-05-10
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260510-tuvastamata-rite-above-reality]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/01 Teesid/Riitus reaalsusest kõrgemal.md
+aliases: [Riitus reaalsusest kõrgemal]
 tags: [nav/teoloogia]
 ---
+
 # Riitus reaalsusest kõrgemal
 
 Sisenemispunkt psühhootilisse õigeusku on inversioon: riitus seatakse reaalsusest kõrgemale. Edasi töötab juba struktuur ([[VER-psychotic-orthodoxy-v1.et|Psühhootiline õigeusk ja selle preester]]); aga kõik algab sellest lihtsast «kõrgemal».

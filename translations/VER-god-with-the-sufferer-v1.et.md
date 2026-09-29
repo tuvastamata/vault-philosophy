@@ -1,18 +1,19 @@
 ---
 id: VER-god-with-the-sufferer-v1.et
 type: translation
-of: "[[VER-god-with-the-sufferer-v1]]"
-lang: et
-definition: "Teodiike keskleht; vestluse «Церковь и страдание» (10.05.2026, [[SRC-20260510-church-suffering|pass raw/-is]]) lõige. Tuum — tees [[STM-20260510-tuvastamata-god-with-sufferer.et|Jumal on iga kannatajaga]]: «kuidas on lubatud» — Hiiobi raamat; «kus» — iga kannatajaga; Kirik — risti juures."
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/03 Arendused/Kus on Jumal, kui inimene kannatab.md"
+skos_definition: "Teodiike keskleht; vestluse «Церковь и страдание» (10.05.2026, [[SRC-20260510-church-suffering|pass raw/-is]]) lõige. Tuum — tees [[STM-20260510-tuvastamata-god-with-sufferer.et|Jumal on iga kannatajaga]]: «kuidas on lubatud» — Hiiobi raamat; «kus» — iga kannatajaga; Kirik — risti juures."
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[VER-god-with-the-sufferer-v1]]"
+pav_importedFrom: "road-to-emmaus@7dc9fc7:et/03 Arendused/Kus on Jumal, kui inimene kannatab.md"
 aliases: ["Kus on Jumal, kui inimene kannatab"]
 tags: [nav/teoloogia, nav/evangeelium]
 ---
+
 # Kus on Jumal, kui inimene kannatab
 
 Teodiike keskleht; vestluse «Церковь и страдание» (10.05.2026, [[SRC-20260510-church-suffering|pass raw/-is]]) lõige. Tuum — tees [[STM-20260510-tuvastamata-god-with-sufferer.et|Jumal on iga kannatajaga]]: «kuidas on lubatud» — Hiiobi raamat; «kus» — iga kannatajaga; Kirik — risti juures.

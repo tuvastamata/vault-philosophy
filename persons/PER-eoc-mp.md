@@ -1,24 +1,24 @@
 ---
 id: PER-eoc-mp
 type: person
-kind: organization
-participant: false
-name: Эстонская православная церковь Московского патриархата
+fed_kind: organization
+skos_prefLabel: Эстонская православная церковь Московского патриархата
+fed_status: proposed
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+fed_participant: false
+prov_hadPrimarySource: ["Eesti Kristlik-Õigeusu Kirik (бывш. MPEÕK) — официальные документы; Riigikogu, поправки к закону о церквях 2025; решение Riigikohus 06.06.2026", "[[SRC-20260827-text]]"]
+prov_wasDerivedFrom: ["[[SRC-20260510-church-suffering]]"]
+pav_importedFrom: road-to-emmaus/ru/04 Справки/ЭПЦ МП.md @ 7dc9fc7
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
 aliases: [ЭПЦ МП, ЭПХЦ, Eesti Kristlik-Õigeusu Kirik, MPEÕK]
-primary_source: "Eesti Kristlik-Õigeusu Kirik (бывш. MPEÕK) — официальные документы; Riigikogu, поправки к закону о церквях 2025; решение Riigikohus 06.06.2026"
-status: proposed
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-based_on: "[[SRC-20260510-church-suffering]]"
-line: "[[LINE-psychotic-orthodoxy]]"
 tags: [ref/organization/eoc-mp, nav/theology]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/04 Справки/ЭПЦ МП.md @ 7dc9fc7"
 ---
 
 # ЭПЦ МП
 
-**Лицо** (организация, [[VER-node-types-v2]]): Эстонская православная церковь Московского патриархата, с 2025 — Эстонская православная христианская церковь. В этом вольте — поместный кейс психотической структуры ([[CON-psychotic-orthodoxy]]): спрошенная о Буче институция опознаёт «геноцид» в требовании отмежеваться от благословляющих.
+**Лицо** (организация, [[CON-node-types]]): Эстонская православная церковь Московского патриархата, с 2025 — Эстонская православная христианская церковь. В этом вольте — поместный кейс психотической структуры ([[CON-psychotic-orthodoxy]]): спрошенная о Буче институция опознаёт «геноцид» в требовании отмежеваться от благословляющих.
 
 ## Карточка
 
@@ -46,7 +46,7 @@ carved_from: "road-to-emmaus/ru/04 Справки/ЭПЦ МП.md @ 7dc9fc7"
 ## Упоминания
 - [[CON-psychotic-orthodoxy]], [[CON-god-with-the-sufferer]], [[STM-20260510-tuvastamata-no-bishops-left]].
 
-*Перенесено из вольта road-to-emmaus 2026-09-04; пересобрано из концепта `CON-eoc-mp` в лицо по заявке [[VER-node-types-v2]].*
+*Перенесено из вольта road-to-emmaus 2026-09-04; пересобрано из концепта `CON-eoc-mp` в лицо по заявке [[CON-node-types]].*
 
 ---
 Eesti keeles: [[PER-eoc-mp.et|MPEÕK]]

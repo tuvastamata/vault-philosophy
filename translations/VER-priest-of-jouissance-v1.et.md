@@ -1,18 +1,19 @@
 ---
 id: VER-priest-of-jouissance-v1.et
 type: translation
-of: "[[VER-priest-of-jouissance-v1]]"
-lang: et
-definition: "Andrei mõiste (märge «Власть», 27.08.2026), komplekti üldfiguur: see, kellele on *omistatud* ligipääs naudingule ja õigus seda jagada. Preestri võim on teesi [[STM-20260827-tuvastamata-power-promise.et|Võim kui võimatu naudingu lubadus]] kõige näitlikum erijuht."
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/04 Mõisted/Jouissance'i preester.md"
-aliases: ["Jouissance'i preester", "naudingu preester"]
+skos_definition: "Andrei mõiste (märge «Власть», 27.08.2026), komplekti üldfiguur: see, kellele on *omistatud* ligipääs naudingule ja õigus seda jagada. Preestri võim on teesi [[STM-20260827-tuvastamata-power-promise.et|Võim kui võimatu naudingu lubadus]] kõige näitlikum erijuht."
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[VER-priest-of-jouissance-v1]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/04 Mõisted/Jouissance'i preester.md
+aliases: [Jouissance'i preester, naudingu preester]
 tags: [nav/lacan, nav/nauding, nav/teoloogia]
 ---
+
 # Jouissance'i preester
 
 Andrei mõiste (märge «Власть», 27.08.2026), komplekti üldfiguur: see, kellele on *omistatud* ligipääs naudingule ja õigus seda jagada. Preestri võim on teesi [[STM-20260827-tuvastamata-power-promise.et|Võim kui võimatu naudingu lubadus]] kõige näitlikum erijuht.

@@ -1,18 +1,19 @@
 ---
 id: VER-real-man-v1.et
 type: translation
-of: "[[VER-real-man-v1]]"
-lang: et
-definition: "Figuur märkmest «Власть» (Андрей, 27.08.2026) — argine, äratundmata jouissance'i preester ([[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]). Verbatim algkeeles:"
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/04 Mõisted/Tõeline mees.md"
-aliases: ["Tõeline mees", "tõeline mees kui preester"]
+skos_definition: "Figuur märkmest «Власть» (Андрей, 27.08.2026) — argine, äratundmata jouissance'i preester ([[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]). Verbatim algkeeles:"
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[VER-real-man-v1]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/04 Mõisted/Tõeline mees.md
+aliases: [Tõeline mees, tõeline mees kui preester]
 tags: [nav/lacan, nav/freud, nav/nauding]
 ---
+
 # Tõeline mees
 
 Figuur märkmest «Власть» (Андрей, 27.08.2026) — argine, äratundmata jouissance'i preester ([[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]). Verbatim algkeeles:

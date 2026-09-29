@@ -1,15 +1,16 @@
 ---
 id: VER-lacanian-gap-v1
-type: concept-version
-concept: "[[CON-lacanian-gap]]"
-version: 1
-formulated_by: claude-agent
-originated_by: [tuvastamata]
-status: canonical
-canonized_by: tuvastamata
-canonized: 2026-09-04
-created: 2026-08-13
-provenance: "[[SRC-20260813-voice]]"
+type: version
+fed_status: accepted
+pav_authoredBy: tuvastamata
+pav_createdBy: claude-agent
+pav_curatedBy: [tuvastamata]
+pav_createdOn: 2026-08-13
+dcterms_dateAccepted: 2026-09-04
+dcterms_language: ru
+dcterms_isVersionOf: "[[CON-lacanian-gap]]"
+pav_version: 1
+prov_hadPrimarySource: "[[SRC-20260813-voice]]"
 ---
 
 # Lacanian gap v1 — наше понимание (external-реферат)

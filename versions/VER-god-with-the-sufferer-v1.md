@@ -1,16 +1,17 @@
 ---
 id: VER-god-with-the-sufferer-v1
-type: concept-version
-concept: "[[CON-god-with-the-sufferer]]"
-version: 1
-formulated_by: claude-agent
-originated_by: [tuvastamata, claude-agent]
-status: proposed
-created: 2026-08-27
-provenance: "[[SRC-20260827-text]]"
-based_on: "[[SRC-20260510-church-suffering]]"
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/03 Развороты/Где Бог, когда страдает человек.md @ 7dc9fc7"
+type: version
+fed_status: proposed
+pav_authoredBy: [tuvastamata, claude-agent]
+pav_createdBy: claude-agent
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+dcterms_isVersionOf: "[[CON-god-with-the-sufferer]]"
+pav_version: 1
+prov_hadPrimarySource: "[[SRC-20260827-text]]"
+prov_wasDerivedFrom: ["[[SRC-20260510-church-suffering]]"]
+pav_importedFrom: "road-to-emmaus/ru/03 Развороты/Где Бог, когда страдает человек.md @ 7dc9fc7"
 ---
 
 # Бог — с каждым страдающим (теодицея Иова) v1

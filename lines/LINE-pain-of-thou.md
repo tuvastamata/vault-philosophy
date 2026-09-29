@@ -1,10 +1,11 @@
 ---
 id: LINE-pain-of-thou
-type: discussion-line
-opened_by: tuvastamata
-participants: [tuvastamata, claude-agent]
-status: open
-created: 2026-08-25
+type: line
+fed_status: open
+pav_authoredBy: tuvastamata
+prov_wasAttributedTo: [tuvastamata, claude-agent]
+pav_createdOn: 2026-08-25
+dcterms_language: ru
 ---
 
 # Line: Боль от прикосновения к Ты

@@ -1,17 +1,18 @@
 ---
 id: STM-20260510-tuvastamata-no-bishops-left
 type: statement
-author: tuvastamata
-modality: opinion
-status: proposed
-formulated_by: claude-agent
-created: 2026-05-10
-provenance: "[[SRC-20260510-church-suffering]]"
-fragment: "[[SRC-20260510-church-suffering-transcript#^t003]]"
-line: "[[LINE-psychotic-orthodoxy]]"
-refers_to: ["[[CON-psychotic-orthodoxy]]", "[[PER-eoc-mp]]", "[[CON-god-with-the-sufferer]]"]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus/ru/01 Тезисы/Архиереев не осталось.md @ 7dc9fc7"
+fed_modality: opinion
+fed_status: proposed
+pav_authoredBy: tuvastamata
+pav_createdBy: claude-agent
+pav_authoredOn: 2026-05-10
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-27
+dcterms_language: ru
+prov_hadPrimarySource: "[[SRC-20260510-church-suffering]]"
+prov_wasQuotedFrom: "[[SRC-20260510-church-suffering-transcript#^t003]]"
+pav_importedFrom: road-to-emmaus/ru/01 Тезисы/Архиереев не осталось.md @ 7dc9fc7
+dcterms_subject: ["[[CON-psychotic-orthodoxy]]", "[[PER-eoc-mp]]", "[[CON-god-with-the-sufferer]]"]
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
 tags: [nav/theology]
 ---
 

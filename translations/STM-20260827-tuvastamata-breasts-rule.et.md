@@ -1,18 +1,18 @@
 ---
 id: STM-20260827-tuvastamata-breasts-rule.et
 type: translation
-of: "[[STM-20260827-tuvastamata-breasts-rule]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-translation_of_human_text: true
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/01 Teesid/Tissid valitsevad maailma.md"
-aliases: ["Tissid valitsevad maailma"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260827-tuvastamata-breasts-rule]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/01 Teesid/Tissid valitsevad maailma.md
+aliases: [Tissid valitsevad maailma]
 tags: [nav/freud, nav/lacan, nav/nauding]
 ---
+
 # Tissid valitsevad maailma
 
 Vahe sõnastusega valem märkmest «Власть» (Андрей, 27.08.2026) — võimu nulltase: lubadus ise, enne igasugust preestrit. Verbatim algkeeles (eesti tekst on ustav tõlge püsikorralduse `ru → et` alusel):

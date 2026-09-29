@@ -1,22 +1,22 @@
 ---
 id: PER-hilarion
 type: person
-kind: human
-participant: false
-name: Иларион (Алфеев), митрополит
+fed_kind: human
+skos_prefLabel: "Иларион (Алфеев), митрополит"
+fed_status: proposed
+pav_createdOn: 2026-09-04
+dcterms_language: ru
+fed_participant: false
+prov_hadPrimarySource: ["открытые источники: письмо Антония Сурожского («НГ-Религии», 21.08.2002); Meduza 05.07.2024; РИА 09.07.2024, 17.10.2024, 31.05.2026, 29.07.2026; «Новая газета Европа» 15.05.2026; m24 30.05.2026", "[[SRC-20260904-text]]"]
+prov_wasDerivedFrom: ["[[SRC-20260827-note-power]]"]
+dcterms_isPartOf: "[[LINE-psychotic-orthodoxy]]"
 aliases: [Иларион, Илларион, Hilarion Alfeyev]
-primary_source: "открытые источники: письмо Антония Сурожского («НГ-Религии», 21.08.2002); Meduza 05.07.2024; РИА 09.07.2024, 17.10.2024, 31.05.2026, 29.07.2026; «Новая газета Европа» 15.05.2026; m24 30.05.2026"
-status: proposed
-created: 2026-09-04
-provenance: "[[SRC-20260904-text]]"
-based_on: "[[SRC-20260827-note-power]]"
-line: "[[LINE-psychotic-orthodoxy]]"
 tags: [ref/person/hilarion, nav/theology]
 ---
 
 # Иларион (Алфеев)
 
-**Лицо** (фигура, [[VER-node-types-v2]]): митрополит; в этом вольте — именной пример жреца психотического православия из заметки «Власть» ([[SRC-20260827-note-power#^n06]]). Разбор случая — [[STM-20260827-claude-hilarion-case]]; сама фигура — здесь, чтобы кейс ссылался на лицо, а не на строку.
+**Лицо** (фигура, [[CON-node-types]]): митрополит; в этом вольте — именной пример жреца психотического православия из заметки «Власть» ([[SRC-20260827-note-power#^n06]]). Разбор случая — [[STM-20260827-claude-hilarion-case]]; сама фигура — здесь, чтобы кейс ссылался на лицо, а не на строку.
 
 ## Карточка
 

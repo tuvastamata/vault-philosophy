@@ -1,10 +1,11 @@
 ---
 id: LINE-incest-power
-type: discussion-line
-opened_by: tuvastamata
-participants: [tuvastamata, claude-agent]
-status: open
-created: 2026-08-27
+type: line
+fed_status: open
+pav_authoredBy: tuvastamata
+prov_wasAttributedTo: [tuvastamata, claude-agent]
+pav_createdOn: 2026-08-27
+dcterms_language: ru
 ---
 
 # Line: Инцест и власть

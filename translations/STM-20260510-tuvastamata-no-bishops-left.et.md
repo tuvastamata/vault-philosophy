@@ -1,18 +1,18 @@
 ---
 id: STM-20260510-tuvastamata-no-bishops-left.et
 type: translation
-of: "[[STM-20260510-tuvastamata-no-bishops-left]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-translation_of_human_text: true
-status: proposed
-created: 2026-05-10
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/01 Teesid/Piiskoppe ei jäänud.md"
-aliases: ["Piiskoppe ei jäänud"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-05-10
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260510-tuvastamata-no-bishops-left]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/01 Teesid/Piiskoppe ei jäänud.md
+aliases: [Piiskoppe ei jäänud]
 tags: [nav/teoloogia]
 ---
+
 # Piiskoppe ei jäänud
 
 Kiriku tõesuse kriteerium ei ole järjepidevus ega kanoonilisus, vaid see, kus ta seisab: risti juures või tribüünil. Selle kriteeriumi järgi on 24.02.2022 ekklesioloogiline test, ja see on sooritatud nii: tõesed on nii UÕK kui ka OÕK; Vene ÕK-s piiskoppe ei jäänud.

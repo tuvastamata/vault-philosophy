@@ -1,17 +1,18 @@
 ---
 id: STM-20260827-claude-hilarion-case.et
 type: translation
-of: "[[STM-20260827-claude-hilarion-case]]"
-lang: et
-formulated_by: claude-agent
-signature: "Claude (Fable 5) · 2026-08-27"
-status: proposed
-created: 2026-08-27
-approved_in_source: "road-to-emmaus (inceste) · Андрей · 2026-08-27"
-carved_from: "road-to-emmaus@7dc9fc7:et/03 Arendused/Ilarioni juhtum.md"
-aliases: ["Ilarioni juhtum", "Ilarioni kaasus"]
+fed_status: proposed
+pav_createdBy: claude-agent
+pav_createdWith: Claude (Fable 5) · 2026-08-27
+pav_createdOn: 2026-08-27
+fed_acceptedInSource: road-to-emmaus (inceste) · Андрей · 2026-08-27
+dcterms_language: et
+fed_translationOf: "[[STM-20260827-claude-hilarion-case]]"
+pav_importedFrom: road-to-emmaus@7dc9fc7:et/03 Arendused/Ilarioni juhtum.md
+aliases: [Ilarioni juhtum, Ilarioni kaasus]
 tags: [nav/teoloogia, nav/nauding]
 ---
+
 # Ilarioni juhtum
 
 Psühhootilise õigeusu preestri eraldi näide ([[VER-psychotic-orthodoxy-v1.et|Psühhootiline õigeusk ja selle preester]], [[VER-priest-of-jouissance-v1.et|Jouissance'i preester]]) — metropoliit Ilarioni (Alfejevi) juhtum märkme «Власть» (Андрей, 27.08.2026) optikas. Tähelepaneku verbatim algkeeles:

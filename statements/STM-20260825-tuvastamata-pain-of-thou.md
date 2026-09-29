@@ -1,17 +1,17 @@
 ---
 id: STM-20260825-tuvastamata-pain-of-thou
 type: statement
-author: tuvastamata
-modality: opinion
-status: proposed
-formulated_by: claude-agent
-created: 2026-08-25
-provenance: "[[SRC-20260825-text]]"
-fragment: unresolved
-line: "[[LINE-pain-of-thou]]"
-refers_to: ["[[CON-pain-of-thou]]", "[[CON-being-from-oneself]]", "[[CON-no-longer-i-live]]"]
-approved_in_source: "road-to-emmaus · Андрей · 2026-08-25"
-based_on: "[[STM-20260825-tuvastamata-sina-puudutamise-valu-loomus]]"
+fed_modality: opinion
+fed_status: proposed
+pav_authoredBy: tuvastamata
+pav_createdBy: claude-agent
+pav_authoredOn: 2026-08-25
+fed_acceptedInSource: road-to-emmaus · Андрей · 2026-08-25
+dcterms_language: ru
+prov_hadPrimarySource: "[[SRC-20260825-text]]"
+prov_wasDerivedFrom: ["[[STM-20260825-tuvastamata-sina-puudutamise-valu-loomus]]"]
+dcterms_subject: ["[[CON-pain-of-thou]]", "[[CON-being-from-oneself]]", "[[CON-no-longer-i-live]]"]
+dcterms_isPartOf: "[[LINE-pain-of-thou]]"
 tags: [nav/theology]
 ---
 
