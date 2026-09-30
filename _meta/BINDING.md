@@ -12,4 +12,4 @@ fed_profile: core
 # Binding — привязка vault-philosophy к метавольту
 
 Рабочий вольт богословия и философии; живёт по правилам метавольта ([[CON-federation]]). Профиль `core`; канонический язык русский, принимаемый — эстонский.
-Свод правил: `python3 ../metavault/tools/fed.py compile .` · проверка: `python3 ../metavault/tools/fed.py lint . --federation ..`
+Свод — `metavault/AGENTS.md` (`python3 metavault/tools/fed.py compile --federation .` из корня федерации; в вольте свода нет) · проверка: `python3 metavault/tools/fed.py lint vault-philosophy --federation .`

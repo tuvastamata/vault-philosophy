@@ -10,4 +10,4 @@
 - `persons/` — [[PER-kireev]], [[PER-hilarion]], [[PER-eoc-mp]].
 - `concepts/` + `versions/` — 14 концептов с телами v1; `translations/` — 18 эстонских пар.
 
-Свод правил — `AGENTS.md` (производный): `python3 ../metavault/tools/fed.py compile . --federation ..`; проверка — `fed.py lint . --federation ..`.
+Правила — в метавольте; свод `metavault/AGENTS.md` производный (`python3 metavault/tools/fed.py compile --federation .` из корня федерации), в вольте свода нет; проверка — `python3 metavault/tools/fed.py lint vault-philosophy --federation .`.
